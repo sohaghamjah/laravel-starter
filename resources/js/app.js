@@ -1,1 +1,10 @@
 import './bootstrap';
+import 'popper.js';
+import '../../node_modules/jquery/dist/jquery.min.js';
+import '../../node_modules/moment/moment.js';
+import '../../node_modules/bootstrap/dist/js/bootstrap.bundle.min.js';
+import '../../node_modules/masonry-layout/dist/masonry.pkgd.min.js';
+import 'sweetalert2';
+import 'select2';
+import 'select2';
+import '../../node_modules/chart.js/dist/chart.min.js';

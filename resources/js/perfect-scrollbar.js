@@ -1,0 +1,1 @@
+import '../../node_modules/perfect-scrollbar/dist/perfect-scrollbar';
